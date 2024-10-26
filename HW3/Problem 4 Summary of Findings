@@ -1,1 +1,4 @@
-
+Conclusion
+The best overall results were obtained with learning rates of 0.01 or 0.1 and batch sizes of 16 or 32.
+A learning rate of 0.1 and batch size of 16 achieved the fastest convergence with the highest accuracy and F1 score.
+Smaller batch sizes with higher learning rates produced the best balance of speed and performance across metrics, while larger batch sizes and lower learning rates slowed convergence and reduced accuracy
