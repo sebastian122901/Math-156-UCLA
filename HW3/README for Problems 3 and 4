@@ -1,3 +1,5 @@
-Read me about these problems.
+This project involves implementing and training a logistic regression model from scratch to classify breast cancer diagnoses using a dataset of cell nucleus features. In Part 1, the dataset is loaded, preprocessed by removing unnecessary columns, and split into training, validation, and test sets to ensure balanced class distributions.
+
+In Part 2, a custom logistic regression model is trained using stochastic gradient descent (SGD) with different batch sizes and learning rates. The model's performance is evaluated on the test set with accuracy, precision, recall, and F1 score, achieving high accuracy and balanced scores across metrics, especially with optimized learning rates and batch sizes.
 
 
