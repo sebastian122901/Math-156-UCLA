@@ -1,1 +1,21 @@
 
+This repository contains a simple implementation of a two-layer perceptron designed for binary classification tasks, demonstrated on the XOR problem.
+
+Features
+Two-layer perceptron with an input layer, hidden layer, and output layer.
+ReLU activation for the hidden layer and sigmoid activation for the output layer.
+Forward and backward propagation.
+Mini-batch Stochastic Gradient Descent (SGD) optimizer.
+Cross-entropy loss function.
+Cross-validation for performance estimation.
+Performance metrics including precision, recall, and F1-score.
+
+Requirements
+Python 3.x
+NumPy
+scikit-learn
+matplotlib
+pickle
+Dataset
+The dataset used is a toy XOR dataset stored in xordata.pkl
+
